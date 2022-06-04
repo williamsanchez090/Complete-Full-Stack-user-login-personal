@@ -1,0 +1,38 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+   background-image: url(.//img/giphy.gif);
+   background-size: cover;
+   
+   background-repeat: no-repeat;
+   display: flex;
+   flex-wrap: wrap;
+   flex-flow: wrap;
+   font-size: x-large;
+   font-weight: 600;
+   
+}
+
+image{
+object-fit: scale-down;
+}
+.yup{
+
+  
+}
+/* body { 
+  display: flex;
+  flex-direction: column;
+  margin: 15% 20% 0 20%;
+  text-align: center;
+ 
+  font-size: xx-large;
+  color: black;
+} 
+
+button {
+  align-self: center;
+}  */
